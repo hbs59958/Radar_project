@@ -60,5 +60,6 @@ The project is organized into four main components:
 
 ## Author
 
-Adapted from the Indian LifeHacker youtube channel
+Adapted from the Indian LifeHacker YouTube channel.
 Edited by **Helina Semu**.
+
