@@ -59,7 +59,5 @@ The project is organized into four main components:
 - Improve the visualization interface with additional features like object tracking or heat maps.
 
 ## Author
-
-Adapted from the Indian LifeHacker YouTube channel.
-Edited by **Helina Semu**.
+Created by **Helina Semu**. Adapted from the Indian LifeHacker YouTube channel.
 
